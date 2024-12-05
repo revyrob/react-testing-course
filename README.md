@@ -1,1 +1,2 @@
-# react-testing-course
+## Udemy course on React Vitest testing
+
